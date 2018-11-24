@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">NavTab</string>
+    <string name="app_name">CollapsingToolbar</string>
+
+    <string name="title_mup_name">Saúl Molinero</string>
+    <string name="subtitle_mup">Here I am with a subtitle</string>
 </resources>
